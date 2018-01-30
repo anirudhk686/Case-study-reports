@@ -15,8 +15,8 @@ suitable explanatory variables.
 
 ## A study of determinants influencing perception of consumers towards advertisements
 * In this project, we have studied about consumer perception across different advertisements.We have also tried find out the different factors affecting the preference of the product for the consumer when they see an advertisement. We have taken our institutes students, some outsiders/mess workers, and medical practitioners as the sample population for our study.
-* Given below are the two objectives of our study:
-A. To study how same advertisement may have varying level of influence,depending upon the demographic distribution of the population.
+* Given below are the two objectives of our study:<br>
+A. To study how same advertisement may have varying level of influence,depending upon the demographic distribution of the population.<br>
 B. To study how brand value factor can be of importance in advertising, and how its importance varies across different demographic distributions.
 * Detailed analysis can be found in this [**_Project report_**](https://github.com/anirudhk686/Case-study-reports/blob/master/reports/Advertising%20Report.pdf).<br>
 
